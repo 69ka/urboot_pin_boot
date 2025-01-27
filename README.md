@@ -1,6 +1,6 @@
 # Project Description
 
-In this project, we utilize [urboot](https://github.com/stefanrueger/urboot/tree/main) as our bootloader. However, unlike the original implementation, access to the bootloader does not occur after a few seconds but is triggered when the PE7 pin is set to low (0).
+In this project, we utilize uses the excellent Urboot bootloader, written by [Stefan Rueger](https://github.com/stefanrueger/urboot/tree/main) as our bootloader. However, unlike the original implementation, access to the bootloader does not occur after a few seconds but is triggered when the PE7 pin is set to low (0).
 
 ## Key Features
 
